@@ -1,6 +1,6 @@
 public class Rektangel{
-	int hoyde; 
-	int lengde; 
+	private int hoyde; 
+	private int lengde; 
 
 	// lagre hoyden til rektangelet i variabelen hoyde
 	public void settHoyde(int h) {
